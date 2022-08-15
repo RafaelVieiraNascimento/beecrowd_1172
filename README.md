@@ -1,6 +1,6 @@
-# beecrowd_1042
+# beecrowd_1172
 
-beecrowd | 1042 - Sort Simples
+beecrowd | 1172 - Sort Simples
 
 Adaptado por Neilor Tonin, URI  Brasil
 
